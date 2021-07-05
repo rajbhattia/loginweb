@@ -1,0 +1,10 @@
+form{
+    border-width: 30px;
+    padding:40px;
+    margin: 20%;
+    border: dimgray;
+    border-style: groove;
+    border-image-width: 30%;
+    border-width: 5px;
+    box-sizing: content-box;
+}
